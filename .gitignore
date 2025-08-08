@@ -1,0 +1,29 @@
+# Virtualenv
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS stuff
+.DS_Store
+
+# Django stuff
+db.sqlite3
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Environment stuff
+.env
+*.env
+
+# Node/npm
+node_modules/
+
+# Cache
+*.cache
